@@ -1,0 +1,11 @@
+/Users/hegdesushankshankar/Downloads/ECommerceProject-main 2/product_microservice/src/main/java/com/ProjectProduct/Products/entity/SellerProduct.java
+/Users/hegdesushankshankar/Downloads/ECommerceProject-main 2/product_microservice/src/main/java/com/ProjectProduct/Products/service/ProductService.java
+/Users/hegdesushankshankar/Downloads/ECommerceProject-main 2/product_microservice/src/main/java/com/ProjectProduct/Products/util/ProductDataIndex.java
+/Users/hegdesushankshankar/Downloads/ECommerceProject-main 2/product_microservice/src/main/java/com/ProjectProduct/Products/config/ProductConfigration.java
+/Users/hegdesushankshankar/Downloads/ECommerceProject-main 2/product_microservice/src/main/java/com/ProjectProduct/Products/entity/ProductEntity.java
+/Users/hegdesushankshankar/Downloads/ECommerceProject-main 2/product_microservice/src/main/java/com/ProjectProduct/Products/service/ProductServiceImpl.java
+/Users/hegdesushankshankar/Downloads/ECommerceProject-main 2/product_microservice/src/main/java/com/ProjectProduct/Products/dto/Product.java
+/Users/hegdesushankshankar/Downloads/ECommerceProject-main 2/product_microservice/src/main/java/com/ProjectProduct/Products/ProductsApplication.java
+/Users/hegdesushankshankar/Downloads/ECommerceProject-main 2/product_microservice/src/main/java/com/ProjectProduct/Products/controller/ProductController.java
+/Users/hegdesushankshankar/Downloads/ECommerceProject-main 2/product_microservice/src/main/java/com/ProjectProduct/Products/repository/ProductRepository.java
+/Users/hegdesushankshankar/Downloads/ECommerceProject-main 2/product_microservice/src/main/java/com/ProjectProduct/Products/feign/FeignController.java
